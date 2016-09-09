@@ -1,3 +1,4 @@
+# LICENSE
 © CrisisMappers Japan/DRONEBIRD, CC BY 4.0 
 
 For more information, please see
